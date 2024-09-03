@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051012896350",
+    "project_id": "android32-fb624",
+    "storage_bucket": "android32-fb624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051012896350:android:ec415c9ab6b154cdc506cf",
+        "android_client_info": {
+          "package_name": "com.example.lanjutanpertemuan1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ1iSbo5Rb9n1Minc2gUTOkSvobsG-K20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
